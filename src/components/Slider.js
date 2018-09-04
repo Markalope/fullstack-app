@@ -6,7 +6,7 @@ import Slide from './slide';
 import Dots from './dots/dots';
 import LeftArrow from './arrows/left-arrow';
 import RightArrow from './arrows/right-arrow';
-require('./style.scss');
+require('../styles/style.scss');
 
 class Slider extends Component {
   state = {};
